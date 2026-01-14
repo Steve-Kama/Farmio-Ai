@@ -1,6 +1,6 @@
 # AI Farmer Mini Lab
-![alt text](image-1.png)
-![alt text](image-2.png)
+<img width="419" height="819" alt="screenshot" src="https://github.com/user-attachments/assets/06b41d0a-a3ca-4ed6-aab0-f77e4a5bae06" />
+
 Sample full-stack demo combining a Next.js frontend and a lightweight TypeScript Express backend. The backend is intentionally small and in-memory for local development and quick experimentation.
 
 **Architecture**
